@@ -35,4 +35,4 @@ This tool provied a simple way to delete all recording older than the desired nu
 
 ### Install dependencies by running
 
-`npm instal`
+`npm install`
